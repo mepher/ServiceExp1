@@ -9,7 +9,5 @@ https://www.codeproject.com/Articles/499465/Simple-Windows-Service-in-Cplusplus
 
 https://learn.microsoft.com/en-us/windows/win32/api/lmaccess/nf-lmaccess-netusersetinfo
 
-https://learn.microsoft.com/en-us/windows/win32/api/lmaccess/nf-lmaccess-netusersetinfo?redirectedfrom=MSDN
-
 https://learn.microsoft.com/en-us/windows/win32/netmgmt/changing-elements-of-user-information#setting-the-user-password-level-1003
 
